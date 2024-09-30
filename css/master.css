@@ -97,7 +97,7 @@ body {
     top: 18vw;
     left: 50%;
     transform: translateX(-50%);
-    text-overflow: 0.3rem 0.3rem 0.3rem #888;
+    text-shadow: 0.3rem 0.3rem 0.3rem #888;
     color: white;
     background-color: white;
     width: 85rem;
